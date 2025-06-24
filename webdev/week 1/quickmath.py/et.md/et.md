@@ -11,4 +11,4 @@ The variable x is given the value 10.
 Declaring a variable means telling the program (compiler or interpreter) that a variable exists, giving it a name, and (in statically typed languages) specifying its type.
 
 5. What does it mean to assign a variable?
-It changes the program’s state—every assignment updates the memory associated with that variable
+It changes the program’s state—every assignment updates the memory associated with that variablehkhjk
